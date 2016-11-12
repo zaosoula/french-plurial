@@ -1,5 +1,5 @@
 {
-    "name": "zarque/FrenchPlurial",
+    "name": "zarque/french-plurial",
     "description": "Convert word to plurial in french",
     "type": "library",
     "license": "MIT",
